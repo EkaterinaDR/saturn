@@ -399,6 +399,7 @@ header {
 
 	.hi_text_2 {
 		font-size: 20px;
+		text-align: justify;
 	}
 	.colortext {
 		font-size: 20px;
@@ -448,6 +449,7 @@ header {
 
 	.hi_text_2 {
 		font-size: 35px;
+		text-align: justify;
 	}
 	.colortext {
 		font-size: 35px;
